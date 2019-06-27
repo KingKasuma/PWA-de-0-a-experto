@@ -3,7 +3,7 @@
 
 self.addEventListener('install', event => {
     // Descargar assets
-    // Creamos un cche
+    // Creamos un cache
 
     console.log('Instalando SW');
 
